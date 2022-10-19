@@ -1,2 +1,2 @@
 # Horizon Tracker for Geoscience Application
-This contains the implementation 
+This contains the colab implementation of oil horizon tracker
